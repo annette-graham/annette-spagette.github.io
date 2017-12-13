@@ -4,6 +4,8 @@ body {
 }
 .header-image {
   border-radius: 15px;
+  margin-left: 1%;
+  margin-right: 1%;
 }
 
 h1 {
@@ -15,7 +17,13 @@ h1 {
 
 h2 {
   text-align: center;
-  font-size: 1em;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+
+.blog-name {
+  font-size: 2em;
+
 }
 
 .one-third {
@@ -24,5 +32,23 @@ h2 {
 }
 
 img {
-  border-radius: 100%
+  border-radius: 100%;
+  display: inline-block;
+  padding: 15px;
+  max-width: 80%;
+  max-height: 80%;
+
+}
+
+
+h3 {
+  text-align: center;
+}
+
+.footer {
+  background-color: #edb;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 5%;
+  border-radius: 15px;
 }
