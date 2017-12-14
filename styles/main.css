@@ -4,7 +4,7 @@ body {
   font-size: 100%;
 }
 
-#title{
+#title {
   font-size: 80px;
   font-weight: 500;
 }
@@ -25,18 +25,22 @@ h1 {
   border-radius: 15px;
 }
 
-h2 {
+.blog-name {
   text-align: center;
-  font-size: 15px;
+  font-size: 35px;
   font-family: 'Dosis', sans-serif;
   margin-left: 2%;
   margin-right: 2%;
 }
 
-.blog-name {
-  font-size: 2em;
+h2 {
+  font-size: 80px;
+  font-family: 'Dosis', sans-serif;
+  margin-left: 10%;
+
 
 }
+
 
 .one-third {
   text-align: center;
@@ -65,4 +69,22 @@ h3 {
   margin-left: 2%;
   margin-right: 2%;
   border-radius: 15px;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 26px;
+  padding-bottom: 1%;
+}
+
+li {
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-size: 26px;
+  padding-bottom: 1%;
 }
