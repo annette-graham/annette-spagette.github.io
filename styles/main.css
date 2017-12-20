@@ -72,7 +72,7 @@ li {
 }
 
 .blogimg {
-  border-radius: 15px 50px;
+  border-radius: 100%;
   border-color: rgba(143, 143, 143, 0.8);
   border-width: 2px;
   border-style: solid;
