@@ -120,3 +120,14 @@ h3 {
   margin: 8% 2% 3% 2%;
   border-radius: 15px;
 }
+
+@media only screen and (max-width: 500px) {
+  .blogimg {
+    max-height: 40%;
+    max-width: 40%;
+  }
+  img {
+    max-width: 40%;
+    max-height: 40%;
+  }
+}
