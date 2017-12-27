@@ -49,6 +49,7 @@ a:hover {
 a:active {
   color: black;
   text-decoration: underline;
+  background-color: gray;
 }
 
 .main {
