@@ -74,7 +74,7 @@ p {
   text-align: left;
   margin-left: 15%;
   margin-right: 15%;
-  font-size: 26px;
+  font-size: 25px;
   padding-bottom: 3%;
 }
 
@@ -132,6 +132,11 @@ li {
 h3 {
   text-align: center;
   padding-top: 2%;
+}
+
+h4 {
+  font-family: 'Dosis', sans-serif;
+  padding-top: 5%;
 }
 
 .footer {
