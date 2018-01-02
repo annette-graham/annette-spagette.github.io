@@ -92,7 +92,7 @@ li {
 
 }
 
-.blogimg {
+/*.blogimg {
   border-radius: 100%;
   border-color: rgba(128, 128, 128, 0.8);
   border-width: 3px;
@@ -104,7 +104,7 @@ li {
   max-width: 80%;
   max-height: 80%;
 
-}
+}*/
 
 .wireframe {
   transform: rotate(90deg);
