@@ -14,7 +14,7 @@ function addEventListeners() {
 
 
 function imageClicked(e) {
-  var audio = new Audio("./sounds/" + e.id + ".wav");
+  var audio = new Audio("./Sounds/" + e.id + ".wav");
     audio.play();
     console.log("Hi " + e.id);
   };
