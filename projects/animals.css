@@ -1,0 +1,49 @@
+body, html {
+  height: 100%;
+  background-size: 250%;
+
+}
+
+.header {
+  background-color: rgba(216, 215, 165, 0.8);
+  margin: 3% 2% 8% 2%;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.caption {
+  margin-left: 8%;
+  margin-bottom: 8%;
+  font-size: 2.5rem;
+}
+
+input {
+  display: inline-block;
+  margin-right: 8%;
+  margin-left: 8%;
+  padding-left: 5%;
+  padding-right: 5%;
+  outline: none;
+}
+
+.footer {
+  background-color: rgba(216, 215, 165, 0.8);
+  margin: 3% 2% 8% 2%;
+  border-radius: 15px;
+  padding top: 2%;
+  padding-bottom: 2%;
+}
+
+h5 {
+  text-align: center;
+  padding-top: 2%;
+}
+
+a:link {
+  text-decoration: none;
+}
